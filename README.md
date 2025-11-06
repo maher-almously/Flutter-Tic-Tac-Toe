@@ -1,16 +1,11 @@
-# tictactoe
+# Tic Tac Toe
 
-A new Flutter project.
+Tic Tac Toe is a **two-player game** built with **Flutter** and **Dart**.
+Players can **set their names** and choose their symbol (X or O) before starting the game.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Two-player gameplay with customizable names and symbols (X or O)  
+- **Game reset/restart** functionality to play again with the same or new players  
+- **Exit button** to close the app  
+- Mobile-optimized, responsive interface for smooth gameplay  
+- Turn tracking to indicate which player’s turn it is  
